@@ -1,0 +1,26 @@
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+.env.test
+
+.vscode/
+.DS_Store
+
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
+
+
+#intellij
+.idea
+
+#remix
+contracts/.deps
+/logs/
